@@ -25,7 +25,7 @@ const ytid =
 
 Asena.addCommand(
   {
-    pattern: "weather ?(.*)",
+    pattern: "today ?(.*)",
     fromMe: true,
     desc: Lang.WEATHER_DESC,
   },
