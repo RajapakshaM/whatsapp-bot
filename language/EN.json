@@ -409,9 +409,9 @@
             "PING_DESC": "Measures your ping."
         },
         "vote": {
-            "voted": "```මනාපය පල කරන ලදි```",
+            "voted": "*මනාපය පල කරන ලදි*",
             "avoted": "```Already Voted```",
-            "total": "Total votes : ",
+            "total": "*මනාප ගනන* : ",
             "delete": "*Voted deleted*",
             "new": "*Delete current vote, To set new.*",
             "error": "*Not found any vote.*",
