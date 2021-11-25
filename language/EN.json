@@ -409,7 +409,7 @@
             "PING_DESC": "Measures your ping."
         },
         "vote": {
-            "voted": "```voted```",
+            "voted": "```මනාපය පල කරන ලදි```",
             "avoted": "```Already Voted```",
             "total": "Total votes : ",
             "delete": "*Voted deleted*",
