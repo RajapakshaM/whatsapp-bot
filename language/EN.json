@@ -290,8 +290,8 @@
             "NO_SONG": "*Your song is greater than 10 mins.*",
             "NO_VIDEO": "*Video is greater than 15 mins.*",
             "SNO_VIDEO": "*Video is greater than 7 mins.*",
-            "DOWNLOADING_SONG": "```Downloading your song...```",
-            "UPLOADING_SONG": "```Uploading```  ",
+            "DOWNLOADING_SONG": "```Downloading your song...⬇```",
+            "UPLOADING_SONG": "```Uploading⬆```  ",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/wa...```",
             "DOWNLOADING_VIDEO": "```Downloading your video...```",
@@ -300,14 +300,14 @@
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching...*",
+            "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
             "IMG": "Uploading photo ```{}``` number ```{} `..."
         },
         "sticker": {
             "STICKER_DESC": "Convert img/video to sticker.",
-            "NEED_REPLY": "*Reply to a photo or video!*",
+            "NEED_REPLY": "*ස්ටිකරය සාදාගැනීමට අවශ්ය පින්තූරයට රිප්ලයි කරන්න*",
             "MP4_NEED_REPLY": "*Reply to a animated sticker.*",
             "TAKE_DESC": "Change sticker pack info.",
             "TAKE_NEED_REPLY": "*Reply to a sticker*",
@@ -322,7 +322,7 @@
             "NEED_USER": "*Give me a User*",
             "IAADMIN": "*I am not admin*",
             "ISADMIN": "*Given user is a admin*",
-            "WARNING": "```⚠️WARNING⚠️\nUser      : @{}\nReason    : {}\nRemaining : {}```"
+            "WARNING": "```⚠️අනතුරු ඇගවීමයි⚠️\nවිනීතව හැසිරෙන්න!!🙏\nUser      : @{}\nReason    : {}\nRemaining : {}```"
         },
         "tagall": {
             "TAGALL_DESC": "Tags everyone in the group.",
